@@ -8,4 +8,4 @@ Detailed instruction can be found in
 
 Exercise 7.11, 8.25, 8.26
 
-##Team Member: Wenxuan Hong, Tianyun Yuan
+## Team Member: Wenxuan Hong, Tianyun Yuan
