@@ -7,3 +7,5 @@ Write a simple MATLAB program for implementing the steepest descent algorithm us
 Detailed instruction can be found in 
 
 Exercise 7.11, 8.25, 8.26
+
+##Team Member: Wenxuan Hong, Tianyun Yuan
